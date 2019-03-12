@@ -39,3 +39,5 @@
 0:0:0:0:0:0:0:1 - - [12/Mar/2019:15:27:54 -0400] "GET /deletetodo.do?todo=react HTTP/1.1" 302 - http-bio-8080-exec-10 1
 0:0:0:0:0:0:0:1 - - [12/Mar/2019:15:27:54 -0400] "GET /todo.do HTTP/1.1" 200 620 http-bio-8080-exec-10 2
 0:0:0:0:0:0:0:1 - - [12/Mar/2019:15:28:11 -0400] "GET /todo.do HTTP/1.1" 200 620 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:15:56:54 -0400] "GET /todo.do HTTP/1.1" 200 466 http-bio-8080-exec-1 1124
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:15:56:58 -0400] "POST /todo.do HTTP/1.1" 200 544 http-bio-8080-exec-3 4
