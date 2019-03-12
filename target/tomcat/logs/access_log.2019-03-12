@@ -41,3 +41,13 @@
 0:0:0:0:0:0:0:1 - - [12/Mar/2019:15:28:11 -0400] "GET /todo.do HTTP/1.1" 200 620 http-bio-8080-exec-10 3
 0:0:0:0:0:0:0:1 - - [12/Mar/2019:15:56:54 -0400] "GET /todo.do HTTP/1.1" 200 466 http-bio-8080-exec-1 1124
 0:0:0:0:0:0:0:1 - - [12/Mar/2019:15:56:58 -0400] "POST /todo.do HTTP/1.1" 200 544 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:29:50 -0400] "POST /todo.do HTTP/1.1" 200 984 http-bio-8080-exec-1 886
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:29:50 -0400] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css HTTP/1.1" 200 121260 http-bio-8080-exec-3 9
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:29:50 -0400] "GET /webjars/jquery/1.9.1/jquery.min.js HTTP/1.1" 200 92629 http-bio-8080-exec-2 10
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:29:50 -0400] "GET /webjars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 200 36868 http-bio-8080-exec-4 9
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:29:50 -0400] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css.map HTTP/1.1" 200 54416 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:29:55 -0400] "GET / HTTP/1.1" 200 314 http-bio-8080-exec-8 10
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:30:02 -0400] "GET /todo.do HTTP/1.1" 200 984 http-bio-8080-exec-9 2
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:38:40 -0400] "GET /todo.do HTTP/1.1" 200 1652 http-bio-8080-exec-1 207
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:38:43 -0400] "GET / HTTP/1.1" 200 314 http-bio-8080-exec-1 3
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:16:38:49 -0400] "GET /todo.do HTTP/1.1" 200 1652 http-bio-8080-exec-1 2
